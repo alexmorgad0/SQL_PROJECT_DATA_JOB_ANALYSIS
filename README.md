@@ -67,7 +67,7 @@ LIMIT 10;
 
 - **Leadership & Seniority:** Many top-paying roles include titles such as **"Director," "Head of Data Science," and "Distinguished Data Scientist"**, showing that higher salaries are closely linked to seniority and domain specialization.
 
-![Top Paying Roles](project_sql\top_10_paying_jobs.png)
+![Top Paying Roles](images/top_10_paying_jobs.png)
 *Bar graph visualizing the salary for the top 10 salaries for data scientists; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -110,7 +110,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
 Other notable tools include **Tableau**, **Azure**, and **Java**, reflecting demand for visualization skills, cloud flexibility, and general programming.
 
-![Top Paying Skills](project_sql\Top_10_skills_Data_scientist.png)
+![Top Paying Skills](images/Top_10_skills_Data_scientist.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data scientists; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Scientists
